@@ -31,4 +31,12 @@
 		- Negligent - should've have known
 - **Breach of Warranty** - divided in to two parts
 	- Express warranty - shows or advertises that product does one thing but doesn't do it well enough
-	- implied warranty - 
+	- implied warranty
+
+- **Solving liability issues about autonomous vehicles should not be a prerequisite**
+- **Liability law is adaptive to new technologies**
+- **Congress should not enforce a one shoe fits all remedy for autonomous vehicle liability**
+- **Third party modifications should be enough grounds for manufacturers to not be liable for "defects"**
+- **Safety standards will be needed and they need to have liability implications**
+- **Liability for autonomous commercial motor vehicles should be addressed federally **
+- 
