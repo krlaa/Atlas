@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f549db2210c492cd",
+        "id": "aa21e6031262ab74",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -12,20 +12,7 @@
             "file": "3. Resources 📚/LIS 4414/Week 7 Forum 2.md",
             "mode": "source"
           }
-        },
-        "group": "24e3971cb3625711"
-      },
-      {
-        "id": "aa21e6031262ab74",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "3. Resources 📚/LIS 4414/Week 7 Forum 2.md",
-            "mode": "preview"
-          }
-        },
-        "group": "24e3971cb3625711"
+        }
       }
     ],
     "direction": "vertical"
@@ -53,7 +40,7 @@
               "type": "search",
               "state": {
                 "query": "tag:#LIS4414",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -69,13 +56,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "529bb488f4565f99",
@@ -124,14 +109,14 @@
   "active": "aa21e6031262ab74",
   "lastOpenFiles": [
     "3. Resources 📚/LIS 4414/Week 7 Forum 2.md",
+    "Untitled.md",
+    "Informational privacy, data mining and the Internet.md",
+    "_Informational privacy, data mining and the Internet.md",
     "2. Areas 🖥/Exercise/2021-10-09.md",
     "2. Areas 🖥/Exercise/2021-10-10.md",
     "5. Kanban/School Work.md",
     "5. Kanban/Untitled Kanban.md",
     "Week 7 Forum 2.md",
-    "3. Resources 📚/LIS 4414/Week 7 Fourm 2.md",
-    "2. Areas 🖥/Exercise 💪.md",
-    "2. Areas 🖥/Excersice/2021-10-09.md",
-    "2. Areas 🖥/Excersice 💪.md"
+    "3. Resources 📚/LIS 4414/Week 7 Fourm 2.md"
   ]
 }

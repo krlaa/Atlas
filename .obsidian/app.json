@@ -7,5 +7,7 @@
     "warmup",
     "pec",
     "Ramen"
-  ]
+  ],
+  "trashOption": "system",
+  "newFileLocation": "current"
 }
