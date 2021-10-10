@@ -1,0 +1,3 @@
+To prevent sauces from coagulating its better to not use cornstarch
+[Corn starch can get pretty gloppy and gelatinous, add the gelatin from bones and it gets downright nasty. You can make your own teriyaki by reducing soy sauce with a bunch of sugar, garlic, ginger, pineapple juice a couple of whole scallions and a whole carrot or two. Put all this in a sauce pan and let it reduce to the consistency of your choosing. I let mine simmer slowly for forty five minutes to an hour depending on how much I am making. It should be syrupy and can get honey-like thick when refrigerated. No corn starch involved](https://www.reddit.com/r/AskCulinary/comments/24ep0k/comment/ch6p2ee/?utm_source=share&utm_medium=web2x&context=3)
+Rather let it simmer

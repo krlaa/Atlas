@@ -1,4 +1,11 @@
 {
   "promptDelete": false,
-  "vimMode": false
+  "vimMode": false,
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "warmup",
+    "pec",
+    "Ramen"
+  ]
 }
