@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b3d7510f8b2ffa9b",
+        "id": "c817d7b9e67da072",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Areas 🖥/Exercise/2021-10-10 Workout.md",
+            "file": "3. Resources 📚/Topics/Autonomous Vehicles.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Areas 🖥/Exercise/2021-10-10 Workout.md",
+                "file": "3. Resources 📚/Topics/Autonomous Vehicles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b3d7510f8b2ffa9b",
+  "active": "c817d7b9e67da072",
   "lastOpenFiles": [
+    "3. Resources 📚/Topics/Autonomous Vehicles.md",
+    "3. Resources 📚/Journals/When It Comes to Safety, Autonomous Cars Are Still Teen Drivers.md",
+    "Daily Notes/2021-10-10.md",
+    "3. Resources 📚/Journals/Automated Vehicles for Safety.md",
+    "3. Resources 📚/Journals/Beware online filter bubbles.md",
     "2. Areas 🖥/Exercise/2021-10-10 Workout.md",
     "2. Areas 🖥/League of Legends 🎮.md",
     "3. Resources 📚/Journals/U.S. and European Computing Researchers and Practitioners Announce Steps to Prevent Algorithmic Bias.md",
     "3. Resources 📚/Journals/Semi-autonomous vehicles must watch the road and the driver.md",
-    "3. Resources 📚/Journals/Products Liability and Driverless Cars- Issues and Guiding Principles for Legislation.md",
-    "3. Resources 📚/Journals/Self-Driving Cars Have a Bicycle Problem.md",
-    "3. Resources 📚/Journals/New paper examines the promise and policy of driverless cars.md",
-    "3. Resources 📚/Journals/California Gives the Green Light to Self-Driving Cars.md",
-    "3. Resources 📚/Journals/Beware online filter bubbles.md",
-    "3. Resources 📚/Journals/Automated Vehicles for Safety.md"
+    "3. Resources 📚/Journals/Products Liability and Driverless Cars- Issues and Guiding Principles for Legislation.md"
   ]
 }
