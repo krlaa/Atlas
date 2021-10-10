@@ -9,23 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Resources 📚/Classes/LIS 4414/Beware online filter bubbles.md",
+            "file": "2. Areas 🖥/Exercise/2021-10-10 Workout.md",
             "mode": "source"
           }
-        },
-        "group": "45555ae1bbc15be2"
-      },
-      {
-        "id": "f971d0f58e459063",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "3. Resources 📚/Classes/LIS 4414/Beware online filter bubbles.md",
-            "mode": "preview"
-          }
-        },
-        "group": "45555ae1bbc15be2"
+        }
       }
     ],
     "direction": "vertical"
@@ -73,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "529bb488f4565f99",
@@ -90,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources 📚/Classes/LIS 4414/Beware online filter bubbles.md",
+                "file": "2. Areas 🖥/Exercise/2021-10-10 Workout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,15 +108,15 @@
   },
   "active": "b3d7510f8b2ffa9b",
   "lastOpenFiles": [
-    "3. Resources 📚/Classes/LIS 4414/Beware online filter bubbles.md",
-    "3. Resources 📚/Classes/LIS 4414/Policy and Ethical Case Study Analysis.md",
-    "3. Resources 📚/Classes/LIS 4414/U.S. and European Computing Researchers and Practitioners Announce Steps to Prevent Algorithmic Bias.md",
-    "3. Resources 📚/Classes/LIS 4414/Week 7 Forum 2.md",
-    "3. Resources 📚/Journals/Self-Driving Cars Have a Bicycle Problem.md",
+    "2. Areas 🖥/Exercise/2021-10-10 Workout.md",
+    "2. Areas 🖥/League of Legends 🎮.md",
+    "3. Resources 📚/Journals/U.S. and European Computing Researchers and Practitioners Announce Steps to Prevent Algorithmic Bias.md",
     "3. Resources 📚/Journals/Semi-autonomous vehicles must watch the road and the driver.md",
-    "3. Resources 📚/Journals/The Case(Ted Ed about self-driving cars).md",
-    "3. Resources 📚/Journals/When It Comes to Safety, Autonomous Cars Are Still Teen Drivers.md",
+    "3. Resources 📚/Journals/Products Liability and Driverless Cars- Issues and Guiding Principles for Legislation.md",
+    "3. Resources 📚/Journals/Self-Driving Cars Have a Bicycle Problem.md",
+    "3. Resources 📚/Journals/New paper examines the promise and policy of driverless cars.md",
     "3. Resources 📚/Journals/California Gives the Green Light to Self-Driving Cars.md",
-    "3. Resources 📚/Journals/Products Liability and Driverless Cars- Issues and Guiding Principles for Legislation.md"
+    "3. Resources 📚/Journals/Beware online filter bubbles.md",
+    "3. Resources 📚/Journals/Automated Vehicles for Safety.md"
   ]
 }
