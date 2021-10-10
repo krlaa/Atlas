@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "818c31aa7ce91577",
+        "id": "f549db2210c492cd",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "3. Resources 📚/LIS 4414/Week 7 Fourm 2.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources 📚/LIS 4414/Week 7 Fourm 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,17 +90,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "818c31aa7ce91577",
+  "active": "f549db2210c492cd",
   "lastOpenFiles": [
+    "3. Resources 📚/LIS 4414/Week 7 Forum 2.md",
+    "5. Kanban/School Work.md",
+    "5. Kanban/Untitled Kanban.md",
+    "Week 7 Forum 2.md",
     "3. Resources 📚/LIS 4414/Week 7 Fourm 2.md",
-    "Untitled.md",
-    "3. Resources 📚/COP 4538 IT Data Structures 📊/1.1.md",
-    "2. Areas 🖥/Cooking/2021-10-08.md",
-    "2. Areas 🖥/Excersice 💪.md",
+    "2. Areas 🖥/Exercise/2021-10-09.md",
+    "2. Areas 🖥/Exercise 💪.md",
+    "2. Areas 🖥/Exercise/2021-10-10.md",
     "2. Areas 🖥/Excersice/2021-10-09.md",
-    "coagulating.md",
-    "2. Areas 🖥/Cooking 🥣.md",
-    "2. Areas 🖥/Excersice/2021-10-10.md",
-    "2021-10-08.md"
+    "2. Areas 🖥/Excersice 💪.md"
   ]
 }
