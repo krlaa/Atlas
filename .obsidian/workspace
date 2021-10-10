@@ -12,7 +12,20 @@
             "file": "3. Resources 📚/LIS 4414/Week 7 Forum 2.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "24e3971cb3625711"
+      },
+      {
+        "id": "aa21e6031262ab74",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "3. Resources 📚/LIS 4414/Week 7 Forum 2.md",
+            "mode": "preview"
+          }
+        },
+        "group": "24e3971cb3625711"
       }
     ],
     "direction": "vertical"
@@ -39,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#LIS4414",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,11 +69,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "529bb488f4565f99",
@@ -103,9 +118,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "f549db2210c492cd",
+  "active": "aa21e6031262ab74",
   "lastOpenFiles": [
     "3. Resources 📚/LIS 4414/Week 7 Forum 2.md",
     "2. Areas 🖥/Exercise/2021-10-09.md",
