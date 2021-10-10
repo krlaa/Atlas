@@ -4,26 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c5cf73ab4a35431e",
+        "id": "80b76653d37b39f9",
         "type": "leaf",
-        "dimension": 50.128205128205124,
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "3. Resources 📚/Journals/Informational privacy, data mining and the Internet.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "aa21e6031262ab74",
-        "type": "leaf",
-        "dimension": 49.871794871794876,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "3. Resources 📚/Classes/LIS 4414/Week 7 Forum 2.md",
-            "mode": "source"
+            "file": "5. Kanban/10.9.21.md"
           }
         }
       }
@@ -89,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources 📚/Classes/LIS 4414/Week 7 Forum 2.md",
+                "file": "5. Kanban/10.9.21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,17 +105,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aa21e6031262ab74",
+  "active": "80b76653d37b39f9",
   "lastOpenFiles": [
+    "5. Kanban/10.9.21.md",
+    "5. Kanban/Untitled Kanban.md",
+    "2. Areas 🖥/Exercise/2021-10-10.md",
+    "2. Areas 🖥/Exercise 💪.md",
+    "2. Areas 🖥/Cooking 🥣.md",
+    "2. Areas 🖥/Exercise/2021-10-09.md",
     "3. Resources 📚/Classes/LIS 4414/Week 7 Forum 2.md",
     "3. Resources 📚/Journals/Informational privacy, data mining and the Internet.md",
     "5. Kanban/School Work.md",
-    "2. Areas 🖥/Cooking 🥣.md",
-    "2. Areas 🖥/Exercise 💪.md",
-    "Informational privacy, data mining and the Internet.md",
-    "3. Resources 📚/LIS 4414/Week 7 Forum 2.md",
-    "Untitled.md",
-    "_Informational privacy, data mining and the Internet.md",
-    "2. Areas 🖥/Exercise/2021-10-09.md"
+    "Informational privacy, data mining and the Internet.md"
   ]
 }
