@@ -6,7 +6,6 @@
 [[The Case(Ted Ed about self-driving cars)]]
 [[Policy and Ethical Case Study Analysis]]
 [[New paper examines the promise and policy of driverless cars]]
-[[USACM Issues Statement on Algorithmic Transparency and Accountability]]
 [[U.S. and European Computing Researchers and Practitioners Announce Steps to Prevent Algorithmic Bias]]
 [[Self-Driving Cars Have a Bicycle Problem]]
 [[Beware online filter bubbles]] - Algorithm Bias related
