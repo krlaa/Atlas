@@ -15,5 +15,4 @@ Topic - #Autonomous_Vehicles
 - potential to be hacked because it needs wireless spectrum to talk to traffic signals and potentially other cars 
 - Another problem is the ethical dilemma of testing these cars on actual roads
 - Many countries have restrictions on maps or policy restrictions on use of data. 
-- Who owns libability when an accident involving a autonomous car happens? The car or the driver?
-- 
+- Who owns liability when an accident involving a autonomous car happens? The car or the driver?
