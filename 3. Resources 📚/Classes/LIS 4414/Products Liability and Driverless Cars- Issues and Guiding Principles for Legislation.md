@@ -28,5 +28,7 @@
 - **Misrepresentation** - says one thing but in actuality only partially does as what was advertised. 
 	- Several types of misrepresentation 
 		- Fraudulent - on on purpose
-		- Negligent - should;
-		- 
+		- Negligent - should've have known
+- **Breach of Warranty** - divided in to two parts
+	- Express warranty - shows or advertises that product does one thing but doesn't do it well enough
+	- implied warranty - 
