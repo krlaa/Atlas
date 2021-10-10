@@ -1,0 +1,11 @@
+{
+  "obsidian-kanban:create-new-kanban-board": [],
+  "obsidian-emoji-toolbar:emoji-picker:open-picker": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ]
+}

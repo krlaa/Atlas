@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "8ab75d4e767adcb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "818c31aa7ce91577",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021-10-08.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e9094a87215df3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a6f6928c354a409",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4765b2ebb399ad76",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "89f1f9bdedb89ec3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "462b76da868f1e0b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "529bb488f4565f99",
+    "type": "split",
+    "children": [
+      {
+        "id": "82bb7629cefdb249",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d0916234d368192",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2021-10-08.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "818c31aa7ce91577",
+  "lastOpenFiles": [
+    "2021-10-08.md",
+    "2. Areas 🖥/Cooking 🥣.md",
+    "3. Resources 📚/COP 4538 IT Data Structures 📊/1.1.md",
+    "3. Resources 📚/COP 4538 IT Data Structures 📊/Untitled.md",
+    "Untitled.md",
+    "Untitled Kanban.md",
+    "2. Areas 🖥/Excersice 💪.md",
+    "Recording 20211009130858.webm.md",
+    "well.md",
+    "Recording 20211009130858.webm"
+  ]
+}
