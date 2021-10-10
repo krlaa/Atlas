@@ -1,6 +1,11 @@
 Class - #LIS4414 
 Date - #2021-10-10 
 
+
+# Goal  
+
+
+
 Tasks
 [[The Case(Ted Ed about self-driving cars)]]
 [[New paper examines the promise and policy of driverless cars]]
