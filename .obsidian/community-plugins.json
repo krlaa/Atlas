@@ -3,5 +3,6 @@
   "obsidian-git",
   "obsidian-kanban",
   "obsidian-emoji-toolbar",
-  "meld-encrypt"
+  "meld-encrypt",
+  "templater-obsidian"
 ]
