@@ -7,8 +7,11 @@
         "id": "f549db2210c492cd",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "3. Resources 📚/LIS 4414/Week 7 Forum 2.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3. Resources 📚/LIS 4414/Week 7 Forum 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,24 +86,35 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "94e3746a66a5f3c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "f549db2210c492cd",
   "lastOpenFiles": [
     "3. Resources 📚/LIS 4414/Week 7 Forum 2.md",
+    "2. Areas 🖥/Exercise/2021-10-09.md",
+    "2. Areas 🖥/Exercise/2021-10-10.md",
     "5. Kanban/School Work.md",
     "5. Kanban/Untitled Kanban.md",
     "Week 7 Forum 2.md",
     "3. Resources 📚/LIS 4414/Week 7 Fourm 2.md",
-    "2. Areas 🖥/Exercise/2021-10-09.md",
     "2. Areas 🖥/Exercise 💪.md",
-    "2. Areas 🖥/Exercise/2021-10-10.md",
     "2. Areas 🖥/Excersice/2021-10-09.md",
     "2. Areas 🖥/Excersice 💪.md"
   ]
