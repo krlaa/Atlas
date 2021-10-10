@@ -10,4 +10,6 @@ Class - #LIS4414
 - New technology can bring up two issues
 	1. Collection of information about people without their concern
 	2. People know they're data is being taken but they can't do anything about it(selling data)
-- 
+
+###Six ways privacy conerns data mining
+1. patterns can be found with 
