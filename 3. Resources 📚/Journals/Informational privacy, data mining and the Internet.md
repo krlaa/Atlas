@@ -14,8 +14,7 @@ Class - #LIS4414
 ###Six ways privacy concerns data mining
 1. implicit patterns can be found with data mining process
 2. single database vs multiple databases
-3. open ended queries
+3. open ended queries to find info on relationships and associations 
 4. predictable information vs unpredictable information about person 
 5. Public nature v private nature of information (whats available to other people).
 6. new groups based on patterns of information.
-7. 
