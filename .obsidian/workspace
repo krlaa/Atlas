@@ -73,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "529bb488f4565f99",
@@ -122,8 +123,8 @@
   "active": "80b76653d37b39f9",
   "lastOpenFiles": [
     "3. Resources 📚/Classes/LIS 4414/New paper examines the promise and policy of driverless cars.md",
-    "3. Resources 📚/Classes/LIS 4414/Policy and Ethical Case Study Analysis.md",
     "3. Resources 📚/Classes/LIS 4414/The Case(Ted Ed about self-driving cars).md",
+    "3. Resources 📚/Classes/LIS 4414/Policy and Ethical Case Study Analysis.md",
     "Daily Notes/2021-10-10.md",
     "Daily Notes/@today.md",
     "3. Resources 📚/Classes/LIS 4414/Untitled.md",
