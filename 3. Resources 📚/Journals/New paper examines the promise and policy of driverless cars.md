@@ -6,6 +6,7 @@ Topic - #Autonomous_Vehicles
 ## Notes
 ---
 ##### Benefits of autonomous vehicles:
+[[Automated Vehicles for Safety#Benefits of Automation]]
  - improve traffic, hive infrastructure
  - lower pollution
  - better for aging populations

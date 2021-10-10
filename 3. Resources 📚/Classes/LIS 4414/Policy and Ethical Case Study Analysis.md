@@ -15,3 +15,6 @@ Tasks
 [[California Gives the Green Light to Self-Driving Cars]]
 [[Self-Driving Cars Have a Bicycle Problem]]
 [[Automated Vehicles for Safety]]
+[[U.S. and European Computing Researchers and Practitioners Announce Steps to Prevent Algorithmic Bias]]
+[[USACM Issues Statement on Algorithmic Transparency and Accountability]]
+[[Beware online filter bubbles]]
