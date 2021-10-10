@@ -11,5 +11,11 @@ Class - #LIS4414
 	1. Collection of information about people without their concern
 	2. People know they're data is being taken but they can't do anything about it(selling data)
 
-###Six ways privacy conerns data mining
-1. patterns can be found with 
+###Six ways privacy concerns data mining
+1. implicit patterns can be found with data mining process
+2. single database vs multiple databases
+3. open ended queries
+4. predictable information vs unpredictable information about person 
+5. Public nature v private nature of information (whats available to other people).
+6. new groups based on patterns of information.
+7. 
