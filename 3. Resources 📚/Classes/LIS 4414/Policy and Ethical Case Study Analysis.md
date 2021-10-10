@@ -14,3 +14,4 @@ Tasks
 [[When It Comes to Safety, Autonomous Cars Are Still Teen Drivers]]
 [[California Gives the Green Light to Self-Driving Cars]]
 [[Self-Driving Cars Have a Bicycle Problem]]
+[[Automated Vehicles for Safety]]
