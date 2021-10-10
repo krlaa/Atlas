@@ -4,3 +4,6 @@
 
 ## Notes
 ---
+Tesla doesn't produce an autonomous vehicle immediately  because then drives would not be aware of the limitations and would put blind faith into the product
+- instead sends out incrementally to essentially "teach" drivers. 
+- MIT found that salesmen don't know how safety features work so it sometimes causes miscommunication
