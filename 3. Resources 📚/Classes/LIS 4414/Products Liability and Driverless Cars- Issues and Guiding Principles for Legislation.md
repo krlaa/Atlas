@@ -17,5 +17,16 @@
 - **Design defects** - the warning system did not warn me fast enough* this example can be refuted by 2 factors by the manufacturer:
 	1. They did provide info
 	2. Adding more expensive sensors would increase computation time canceling out the whole purpose 
+	&nbsp
+	&nbsp
+	&nbsp
+	
+	- Uses risk utility tests to determine if the manufacturer is liable
 
 - **Failure to warn** - Manufactures didn't give adequate explanation of the risks.
+	- post sale warnings/ warnings - can come in the form of software/firmware upgrades
+- **Misrepresentation** - says one thing but in actuality only partially does as what was advertised. 
+	- Several types of misrepresentation 
+		- Fraudulent - on on purpose
+		- Negligent - should;
+		- 
