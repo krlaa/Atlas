@@ -7,8 +7,11 @@
         "id": "88025382fad72f0e",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "3. Resources 📚/Journals/New paper examines the promise and policy of driverless cars.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -74,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3. Resources 📚/Journals/New paper examines the promise and policy of driverless cars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,10 +109,10 @@
   },
   "active": "88025382fad72f0e",
   "lastOpenFiles": [
+    "3. Resources 📚/Journals/New paper examines the promise and policy of driverless cars.md",
+    "2. Areas 🖥/Cooking/coagulating sauces.md",
     "2. Areas 🖥/Cooking 🥣.md",
     "5. Kanban/10.9.21.md",
-    "2. Areas 🖥/Cooking/coagulating sauces.md",
-    "3. Resources 📚/Journals/New paper examines the promise and policy of driverless cars.md",
     "3. Resources 📚/Topics/Autonomous Vehicles.md",
     "3. Resources 📚/Topics/USACM Issues Statement on Algorithmic Transparency and Accountability.md",
     "3. Resources 📚/Journals/U.S. and European Computing Researchers and Practitioners Announce Steps to Prevent Algorithmic Bias.md",
