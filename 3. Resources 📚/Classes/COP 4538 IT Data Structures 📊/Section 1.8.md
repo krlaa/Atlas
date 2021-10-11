@@ -7,10 +7,19 @@ Topic - Growth of Functions and complexity/ Upper and lower bound
 - **Upper bound** is the >= worst case for an algorithm
 -  To calculate use the upper and lower bound use the constants attached to N to calculate
 	-  3N^2 + 10N +17 = 30N^2 because 3\*10 then attach to the higher notation
-	-   
- T(N)=2N^2+N+9.
+
+
+### Asymptotic Notation 
+Example:
+**T(N)=2N^2+N+9** 
+ 
+ - O notation - provides growth rate of algorithms upper bound
+	 - positive constant *c* exists where T(N) <= *c* \* f(N)
+ - Ω notation - provides growth rate of algorithms lower 
+	 - A positive constant c exists such that, for all N ≥ 1, T(N)>=*c* \* f(N).
+ - Θ notation - provides growth rate that is both upper and lower bound
+	 - O and Ω are the same
+
+O notation c = 12
  
  
- O notation - provides growth rate of
- Ω notation
- Θ notation
