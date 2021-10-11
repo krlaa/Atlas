@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Resources 📚/Journals/Beware online filter bubbles.md",
+            "file": "3. Resources 📚/Journals/Semi-autonomous vehicles must watch the road and the driver.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Autonomous_Vehicles",
+                "query": "Tesla",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "529bb488f4565f99",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources 📚/Journals/Beware online filter bubbles.md",
+                "file": "3. Resources 📚/Journals/Semi-autonomous vehicles must watch the road and the driver.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,14 +108,14 @@
   },
   "active": "88025382fad72f0e",
   "lastOpenFiles": [
-    "3. Resources 📚/Journals/Beware online filter bubbles.md",
+    "3. Resources 📚/Journals/Semi-autonomous vehicles must watch the road and the driver.md",
+    "3. Resources 📚/Journals/When It Comes to Safety, Autonomous Cars Are Still Teen Drivers.md",
     "3. Resources 📚/Topics/Autonomous Vehicles.md",
+    "3. Resources 📚/Journals/Beware online filter bubbles.md",
     "3. Resources 📚/Journals/U.S. and European Computing Researchers and Practitioners Announce Steps to Prevent Algorithmic Bias.md",
     "3. Resources 📚/Journals/Automated Vehicles for Safety.md",
     "3. Resources 📚/Journals/Self-Driving Cars Have a Bicycle Problem.md",
     "3. Resources 📚/Journals/California Gives the Green Light to Self-Driving Cars.md",
-    "3. Resources 📚/Journals/When It Comes to Safety, Autonomous Cars Are Still Teen Drivers.md",
-    "3. Resources 📚/Journals/Semi-autonomous vehicles must watch the road and the driver.md",
     "3. Resources 📚/Journals/New paper examines the promise and policy of driverless cars.md",
     "3. Resources 📚/Journals/Products Liability and Driverless Cars- Issues and Guiding Principles for Legislation.md"
   ]
