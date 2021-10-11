@@ -10,3 +10,4 @@
 [[Self-Driving Cars Have a Bicycle Problem]]
 [[Beware online filter bubbles]] - Algorithm Bias related
 [[California Gives the Green Light to Self-Driving Cars]]
+[[Automated Vehicles for Safety]]
