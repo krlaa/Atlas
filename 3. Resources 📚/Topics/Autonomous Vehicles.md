@@ -9,3 +9,4 @@
 [[U.S. and European Computing Researchers and Practitioners Announce Steps to Prevent Algorithmic Bias]]
 [[Self-Driving Cars Have a Bicycle Problem]]
 [[Beware online filter bubbles]] - Algorithm Bias related
+[[California Gives the Green Light to Self-Driving Cars]]
