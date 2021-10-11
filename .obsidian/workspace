@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fdd2a27a9b40fd00",
+        "id": "88025382fad72f0e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "3. Resources 📚/Topics/Autonomous Vehicles.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources 📚/Topics/Autonomous Vehicles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +103,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fdd2a27a9b40fd00",
+  "active": "88025382fad72f0e",
   "lastOpenFiles": [
+    "2. Areas 🖥/Cooking 🥣.md",
+    "5. Kanban/10.9.21.md",
+    "2. Areas 🖥/Cooking/coagulating sauces.md",
+    "3. Resources 📚/Journals/New paper examines the promise and policy of driverless cars.md",
     "3. Resources 📚/Topics/Autonomous Vehicles.md",
     "3. Resources 📚/Topics/USACM Issues Statement on Algorithmic Transparency and Accountability.md",
     "3. Resources 📚/Journals/U.S. and European Computing Researchers and Practitioners Announce Steps to Prevent Algorithmic Bias.md",
     "3. Resources 📚/Journals/Semi-autonomous vehicles must watch the road and the driver.md",
     "3. Resources 📚/Journals/The Case(Ted Ed about self-driving cars).md",
-    "3. Resources 📚/Journals/New paper examines the promise and policy of driverless cars.md",
-    "3. Resources 📚/Journals/Automated Vehicles for Safety.md",
-    "5. Kanban/10.10.21.md",
-    "3. Resources 📚/Classes/LIS 4414/Policy and Ethical Case Study Analysis.md",
-    "3. Resources 📚/Journals/When It Comes to Safety, Autonomous Cars Are Still Teen Drivers.md"
+    "3. Resources 📚/Journals/Automated Vehicles for Safety.md"
   ]
 }
