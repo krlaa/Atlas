@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Resources 📚/Classes/COP 4538 IT Data Structures 📊/3.8.md",
+            "file": "3. Resources 📚/Classes/COP 4538 IT Data Structures 📊/TCP server.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Resources 📚/Classes/COP 4538 IT Data Structures 📊/3.8.md",
+            "file": "3. Resources 📚/Classes/COP 4538 IT Data Structures 📊/TCP server.md",
             "mode": "preview"
           }
         },
@@ -73,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "529bb488f4565f99",
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources 📚/Classes/COP 4538 IT Data Structures 📊/3.8.md",
+                "file": "3. Resources 📚/Classes/COP 4538 IT Data Structures 📊/TCP server.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +120,8 @@
   },
   "active": "88025382fad72f0e",
   "lastOpenFiles": [
+    "3. Resources 📚/Classes/COP 4538 IT Data Structures 📊/Untitled.md",
+    "3. Resources 📚/Classes/COP 4538 IT Data Structures 📊/3.8.md",
     "3.8.md",
     "3. Resources 📚/Classes/COP 4538 IT Data Structures 📊/1.8.md",
     "3. Resources 📚/Classes/COP 4538 IT Data Structures 📊/Section 1.8.md",
@@ -128,8 +129,6 @@
     "3. Resources 📚/Classes/COP 4538 IT Data Structures 📊/1.1.md",
     "3. Resources 📚/Classes/COP 4538 IT Data Structures 📊/1.9.md",
     "3.2.md",
-    "1.9.md",
-    "3. Resources 📚/Journals/Semi-autonomous vehicles must watch the road and the driver.md",
-    "5. Kanban/10.10.21.md"
+    "1.9.md"
   ]
 }
