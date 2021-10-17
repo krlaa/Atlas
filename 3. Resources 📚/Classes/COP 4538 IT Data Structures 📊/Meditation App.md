@@ -2,4 +2,5 @@
 	 - Model is free, ads section or donations.
  - possibly using my voice as the "instructor"
  - could find a recording studio to get all the recordings.
- - How would you 
+ - How would you
+ -  My thoughts on the individual identity presented by Braman make sense. I agree with their view that it is socially constructed, that depending on the context our identity and sense of identity change. Braman also makes the point that culture affects identity and I personally believe that is very true as a huge part of my identity is my culture. I believe that the libel aspect of law and policy has the most consequences on individual activity. This is because both parties are affected the perpetrator's identity is changed if they are found guilty of defamation of character, and the victim's identity changes. However one could argue that victim could gain their reputation and identity back, this may only be for some cases, once that thought is implanted into someone's mind it is pretty hard to get out. Ethical issues regarding individual identity are very hard to handle since there is a lot of subjectivity in place. One good way to combat this is discussed in chapter 5 of the libel section where they give a detailed explanation of the requirements for the publication to be deemed as defamatory.
