@@ -1,0 +1,5 @@
+ - want to make a meditation app
+	 - Model is free, ads section or donations.
+ - possibly using my voice as the "instructor"
+ - could find a recording studio to get all the recordings.
+ - How would you 

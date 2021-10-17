@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Resources 📚/Classes/COP 4538 IT Data Structures 📊/TCP server.md",
+            "file": "3. Resources 📚/Classes/COP 4538 IT Data Structures 📊/Meditation App.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Resources 📚/Classes/COP 4538 IT Data Structures 📊/TCP server.md",
-            "mode": "preview"
+            "file": "3. Resources 📚/Classes/COP 4538 IT Data Structures 📊/Meditation App.md",
+            "mode": "source"
           }
         },
         "group": "895277f922d9594e"
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources 📚/Classes/COP 4538 IT Data Structures 📊/TCP server.md",
+                "file": "3. Resources 📚/Classes/COP 4538 IT Data Structures 📊/Meditation App.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,10 +118,10 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "64f5f61916f762f0",
+  "active": "88025382fad72f0e",
   "lastOpenFiles": [
-    "3. Resources 📚/Classes/COP 4538 IT Data Structures 📊/TCP server.md",
     "3. Resources 📚/Classes/COP 4538 IT Data Structures 📊/Untitled.md",
+    "3. Resources 📚/Classes/COP 4538 IT Data Structures 📊/TCP server.md",
     "3. Resources 📚/Classes/COP 4538 IT Data Structures 📊/3.8.md",
     "3.8.md",
     "3. Resources 📚/Classes/COP 4538 IT Data Structures 📊/1.8.md",
