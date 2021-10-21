@@ -4,13 +4,11 @@
 
 # Grade
 - ## Students
-	- weeks
+	- ###  weeks
+		- {attendance: string, date: unix timestamp}
 - ## Teacher
-
-
 # Teacher
-- Grade
-
+- [[App structure#Grade]]
 # Student
-- grade
+- [[App structure#Grade]]
 - username
