@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects 🧾/Personal/assembly/App structure.md",
+            "file": "3. Resources 📚/Classes/Quiz 3.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects 🧾/Personal/assembly/App structure.md",
+            "file": "3. Resources 📚/Classes/Quiz 3.md",
             "mode": "preview"
           }
         },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects 🧾/Personal/assembly/App structure.md",
+                "file": "3. Resources 📚/Classes/Quiz 3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +120,7 @@
   },
   "active": "e10c7aabe9f41167",
   "lastOpenFiles": [
+    "3. Resources 📚/Classes/Quiz 3.md",
     "1. Projects 🧾/Personal/assembly/App structure.md",
     "1. Projects 🧾/Personal/assembly/Settings Page.md",
     "1. Projects 🧾/Personal/assembly/Assembly kanban.md",
@@ -128,7 +129,6 @@
     "3. Resources 📚/Classes/LIS 4414/Week 7 Forum 2.md",
     "3. Resources 📚/Classes/COP 4538 IT Data Structures 📊/Meditation App.md",
     "3. Resources 📚/Classes/COP 4538 IT Data Structures 📊/TCP server.md",
-    "3. Resources 📚/Classes/COP 4538 IT Data Structures 📊/3.8.md",
-    "3. Resources 📚/Classes/COP 4538 IT Data Structures 📊/3.2.md"
+    "3. Resources 📚/Classes/COP 4538 IT Data Structures 📊/3.8.md"
   ]
 }
