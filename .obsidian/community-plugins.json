@@ -4,5 +4,6 @@
   "obsidian-kanban",
   "obsidian-emoji-toolbar",
   "meld-encrypt",
-  "templater-obsidian"
+  "templater-obsidian",
+  "cm-editor-syntax-highlight-obsidian"
 ]

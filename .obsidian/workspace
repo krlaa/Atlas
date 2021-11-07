@@ -9,23 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Resources 📚/Classes/Quiz 3.md",
+            "file": "1. Projects 🧾/Personal/assembly/Tasks/Server.md",
             "mode": "source"
           }
-        },
-        "group": "636b3ff118acc52a"
-      },
-      {
-        "id": "12ee590c9337a791",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "3. Resources 📚/Classes/Quiz 3.md",
-            "mode": "preview"
-          }
-        },
-        "group": "636b3ff118acc52a"
+        }
       }
     ],
     "direction": "vertical"
@@ -89,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources 📚/Classes/Quiz 3.md",
+                "file": "1. Projects 🧾/Personal/assembly/Tasks/Server.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,17 +105,17 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "12ee590c9337a791",
+  "active": "e10c7aabe9f41167",
   "lastOpenFiles": [
-    "3. Resources 📚/Classes/Quiz 3.md",
-    "1. Projects 🧾/Personal/assembly/App structure.md",
-    "1. Projects 🧾/Personal/assembly/Settings Page.md",
+    "1. Projects 🧾/Personal/assembly/Tasks/Server.md",
+    "3. Resources 📚/Classes/CNT 4104/TCP server.md",
     "1. Projects 🧾/Personal/assembly/Assembly kanban.md",
+    "1. Projects 🧾/Personal/assembly/Tasks/Settings Page.md",
+    "3. Resources 📚/Classes/LIS 4414/Week 7 Forum 2.md",
+    "1. Projects 🧾/Personal/assembly/App structure.md",
+    "3. Resources 📚/Classes/Quiz 3.md",
     "3. Resources 📚/Journals/Semi-autonomous vehicles must watch the road and the driver.md",
     "3. Resources 📚/Classes/LIS 4414/Policy and Ethical Case Study Analysis.md",
-    "3. Resources 📚/Classes/LIS 4414/Week 7 Forum 2.md",
-    "3. Resources 📚/Classes/COP 4538 IT Data Structures 📊/Meditation App.md",
-    "3. Resources 📚/Classes/COP 4538 IT Data Structures 📊/TCP server.md",
-    "3. Resources 📚/Classes/COP 4538 IT Data Structures 📊/3.8.md"
+    "3. Resources 📚/Classes/COP 4538 IT Data Structures 📊/Meditation App.md"
   ]
 }
