@@ -8,4 +8,8 @@ For this part I have decided to choose the game Temple Run. This game was very p
 2.  Hypothetical Scenario
 	- For VR Temple Run the idea is fairly straightforward, the player puts on the VR headset and picks up the joystick. The joystick would be similar in design to the Playstation Move Navigation Controller where there is two buttons and the analog stick. The buttons only have purpose in the game to select different modes in the menu screen as well as pausing the and continue progression in the game. After a mode (easy, medium, hard) is selected then the game will begin in a first person point of view where the character is constantly running until they get hit by an obstacle.
 3. Design Issues
-	- 
+	- I think the biggest design issue is accessibility. This is purely based on the jump mechanic, if there is not enough space or the player cannot physically jump then the game wouldn't be accessible. This needs to be fixed by either adding different mechanics or an extra button on the handheld controller. 
+4. Pros and Cons
+	- Pros:
+		- Immersive experience
+		- p
