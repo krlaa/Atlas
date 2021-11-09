@@ -3,4 +3,4 @@
 
 ## Virtual Reality:
 1. Research and Considerations
-	- 
+	-  
