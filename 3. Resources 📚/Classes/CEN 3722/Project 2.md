@@ -2,4 +2,5 @@
 
 
 ## Virtual Reality:
-1. 
+1. Research and Considerations
+	- 
