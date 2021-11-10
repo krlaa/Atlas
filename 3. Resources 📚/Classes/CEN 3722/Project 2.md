@@ -42,9 +42,9 @@ For this part I have decided to choose the game Temple Run. This game was very p
 
 ## Multimodal
 1. Research and Considerations
-	- Temple Run through the concept of multimodal interface is a game involving the player physically going through a maze like course with turns and obstacles. A key design consideration is 
+	- Temple Run through the concept of multimodal interface is a game involving the player physically going through a maze like course with turns and obstacles. A key design consideration is collision on the course would be detected. There are various ways to tackle this such as using sensors on the players body with clothing/armor or on the objects themselves. 
 2.  Hypothetical Scenario
-	- 
+	- A play through of this interface of Temple Run would involve a lot physical movement. The player would be first given a run through of the safety precautions and the necessary requirements of the game, such as expected movement. They will then be presented with types of obstacles that they can expect and some ways to avoid them. The course will have three distinct lanes this corresponds to how it is in the mobile game. The player will run from the start line to the end of the course while avoiding getting hit by obstacles in their path. Some obstacles can include rubber balls that look like boulders rolling down a lane. Small boxes that look like stone that players can jump over etc. 
 1. Design Issues
 	- 
 2. Pros and Cons
