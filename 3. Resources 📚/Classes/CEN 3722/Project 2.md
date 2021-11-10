@@ -40,9 +40,9 @@ For this part I have decided to choose the game Temple Run. This game was very p
 
 
 
-## Tangible
+## Multimodal
 1. Research and Considerations
-	- 
+	- Temple Run through the concept of multimodal interface is a game involving the player physically going through a maze like course with turns and obstacles. A key design consideration is 
 2.  Hypothetical Scenario
 	- 
 1. Design Issues
