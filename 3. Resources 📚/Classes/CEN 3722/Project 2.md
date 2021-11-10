@@ -75,6 +75,7 @@ Walk through of the game:
 10.  New round begins (announced to the player)
 11.  Gain 1 more extra mana than from previous round (announced to the player)
 12.  Repeat step 6-8 however there is now an option to enter battle phase steps are addressed below.
+13. Game ends when one players nexus reaches 0 health
 
 
 Battle Phase Steps:
@@ -82,7 +83,9 @@ Battle Phase Steps:
 	- This will be done with the number keys. The first time it chooses which card from the bench to put on the field the second time around it indicates where on the field to place. There numerous places on the field and the player can indicate with the number keys where to place
 2. Player without the attack coin can assign defenders to block specific attacker
 	- This will be done with the number keys. The first time it chooses which card from the bench to put on the field the second time around it indicates where on the field to place. There numerous places on the field and the player can indicate with the number keys where to place the unit to block the attacking unit. 
-3. The attacking player can cast a spell (depending on) (will be announced if ) 
+3. The attacking player can cast a spell (depending on their remaining mana) (will be announced if the player chooses to use a spell) 
+4. If the attacking players units are not blocked then the defending players nexus takes damage equal to the damage indicated on the attacking units card.
+5. Combat resolves
 
 
 
