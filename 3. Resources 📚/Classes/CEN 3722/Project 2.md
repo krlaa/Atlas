@@ -45,8 +45,14 @@ For this part I have decided to choose the game Temple Run. This game was very p
 	- Temple Run through the concept of multimodal interface is a game involving the player physically going through a maze like course with turns and obstacles. A key design consideration is collision on the course would be detected. There are various ways to tackle this such as using sensors on the players body with clothing/armor or on the objects themselves. 
 2.  Hypothetical Scenario
 	- A play through of this interface of Temple Run would involve a lot physical movement. The player would be first given a run through of the safety precautions and the necessary requirements of the game, such as expected movement. They will then be presented with types of obstacles that they can expect and some ways to avoid them. The course will have three distinct lanes this corresponds to how it is in the mobile game. The player will run from the start line to the end of the course while avoiding getting hit by obstacles in their path. Some obstacles can include rubber balls that look like boulders rolling down a lane. Small boxes that look like stone that players can jump over etc. 
-1. Design Issues
-	- 
-2. Pros and Cons
+3. Design Issues
+	- There are some major design issues that will need to be addressed. The first one is safety how can the course be completely safe while including the excitement and feel that the mobile game gives. There's also another design problem which cannot be addressed without some creative thought. This comes in the form of the coins that are collected during the run on the mobile game. Players in real life can't stop to pick up coins so there needs to be an alternative way to fill up the game meter. With this mechanic in mind there could be some slight change to the rules where the purpose of the game is to make it to the end as quickly as possible. Out of the interfaces this is the only one that we can incorporate multiplayer. Players would compete on the same course and try not to fall behind. The goal of the game at that point would be to make it to the end the fastest.
+4. Pros and Cons
 	- Pros:
+		- Physical benefits
+		- Multiplayer
+		- Truly immersive experience
 	- Cons:
+		- Not easily accessible
+		- Potential safety risks
+
