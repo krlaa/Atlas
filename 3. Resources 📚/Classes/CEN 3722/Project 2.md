@@ -19,4 +19,12 @@ For this part I have decided to choose the game Temple Run. This game was very p
 		- Motion sickness
 
 ## Wearable
-1.  For wearable design in the scope of the game Temple Run the biggest consideration is the use of different 
+1. Research and Considerations
+	- For wearable design in the scope of the game Temple Run the biggest consideration is the use of different technologies. For this specific scenario, you would have to consider which sensor or gadget could control the movement of the player. 
+2.  Hypothetical Scenario
+	- 
+3. Design Issues
+	- 
+4. Pros and Cons
+	- Pros:
+	- Cons:
