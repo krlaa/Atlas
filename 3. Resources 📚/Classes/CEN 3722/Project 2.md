@@ -56,17 +56,22 @@ For this part I have decided to choose the game Temple Run. This game was very p
 For this part I will be redesigning an already existing game called Legends of Runeterra (LoR). It is card game created by Riot Games which involves an extensive card selection and mechanics. Since it is an digital card game there are many people of different demographics that play it. It falls within the fantasy genre and has many different central "themes". Each theme represents a region in the fantasy land of Runeterra. Each card has some character or item lore attached to the meaning behind which attracts many enthusiasts . The goal of the game is to defeat the opponents "nexus" (health bar) by using your cards. To achieve this goal there are various mechanics and information the player needs to know when playing LoR. Players take turns placing cards on the field and other tasks which will be covered below. The game starts off with 1 player gaining the attack token this indicates that the player can put their cards from the "bench" (an area where you can place cards that are not fighting or blocking) to the "field". Whichever player receives the attack token the very first time in the match is not allowed to attack. Upon the start of the second round the player who didn't first get the attack token gets the token. Then the player with the token can proceed to place their units onto the field and prepare for an attack. During this time the person without the attack token can opt to place one of their cards from their bench onto the field to "block" the attack. If the player chooses not to block then they will take damage to their nexus (health bar). On top of all these mechanics there is crucial note that players must evaluate. Cards are placed from the "hand" on to the field by a system of mana. Mana is consumed based on the number in the top left corner of each card when placing it on the bench from the hand. The mana pool increases as time goes on in the game this allows to play more powerful cards which cost more mana. Along with mana players also need to mindfully use "spell" cards wither for damage or utility. To play this game there isn't too much technical specifications as long as the has a keyboard and speakers/headphones they should be fine. The interface of this game primarily uses audiotory cues, the user then reponds to this by entering the corresponding key presses. This process however could be completely replaced with speech recognization, however since speech recognition would take extra processing time, this rendition of LoR focuses on purely keyboard input.
 
 Walk through of the game:
-- Game begins; both players start with 20 nexus health points (This is read out to the player)
-- Gain 1 Mana (read out loud to the player)
-- Announce who has the attack token
-- Each player gets 4 cards to act as their starting hand
+1. Game begins; both players start with 20 nexus health points (This is read out to the player)
+2. Gain 1 Mana (read out loud to the player)
+3. Announce who has the attack token
+4. Each player gets 4 cards to act as their starting hand
 	- Each card can be cycled through with the arrow keys on the keyboard. Space bar can indicate reading out loud the card details.
-- Players can choose to mulligan specific cards if they do not like their starting hand.
+5. Players can choose to mulligan specific cards if they do not like their starting hand.
 	- To mulligan specific cards each card will be assigned to a number key on the keyboard. 1-4 on the key board corresponds to card #1 - 4 position in the hand left to right.
--    After a starting hand is chosen the player who recieved the attack token can do 3 things: summon a unit, cast a spell, or pass turn. 
+6. After a starting hand is chosen the player who recieved the attack token can do 3 things: summon a unit, cast a spell, or pass turn. 
 	-    These options are announced to the player if they are the one that has the attack token. 
 	-    For these options the number keys will also be used to indicate which option to choose.
--    
+7. After preforming an action by "Player 1", "Player 2" gets an option to also do the 3 actions. 
+	-    If a player doesn't have enough mana to play a spell or summon a unit then their turn is passed
+		-    This will be announced to the player to remind them of their mana system situation
+8.    When the player with the attack token has no mana left their only option becomes to end turn.
+	- This change of options will be announced to the player
+9.  The attack token is given to the other player
 
 
 
