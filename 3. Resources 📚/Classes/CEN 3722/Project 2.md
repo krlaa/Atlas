@@ -35,11 +35,6 @@ For this part I have decided to choose the game Temple Run. This game was very p
 		- Space consuming
 		- Potential extra hardware.
 
-
-
-
-
-
 ## Multimodal
 1. Research and Considerations
 	- Temple Run through the concept of multimodal interface is a game involving the player physically going through a maze like course with turns and obstacles. A key design consideration is collision on the course would be detected. There are various ways to tackle this such as using sensors on the players body with clothing/armor or on the objects themselves. 
@@ -56,3 +51,6 @@ For this part I have decided to choose the game Temple Run. This game was very p
 		- Not easily accessible
 		- Potential safety risks
 
+
+# Part 2
+For this part I will be redesigning an already existing game called Legends of Runeterra (LoR). It is card game created by Riot Games which involves an extensive card selection and mechanics. Since it is an digital card game there are many people of different demographics that play it. It falls within the fantsy genre and has many different central "themes". Each theme represents a region in the fantasy land of Runeterra. Each card has some character or item lore attached to the meaning behind which attracts many enthusits. The goal of the game is to defeat the opponents "nexus" (health bar) by using your cards. To achieve this goal there are various mechanics and information the player needs to know when playing LoR. Players take turns placing cards on the field and other tasks which will be covered below. The game starts off with 1 player gaining the attack token this indicates that 
