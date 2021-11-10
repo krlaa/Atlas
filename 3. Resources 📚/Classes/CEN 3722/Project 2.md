@@ -22,7 +22,19 @@ For this part I have decided to choose the game Temple Run. This game was very p
 1. Research and Considerations
 	- For wearable design in the scope of the game Temple Run the biggest consideration is the use of different technologies. For this specific scenario, you would have to consider which sensor or gadget could control the movement of the player. 
 2.  Hypothetical Scenario
+	- For this hypothetical scenario the wearable device that will be needed to play the game is Google Glass or another augmented reality eye-wear. The player would put on the glasses and be presented with a menu screen very similar to the one mention the VR section. The controls for the menu and pause functionality would be on the glasses themselves. For player movement this is where the creativity of the designer can sprout different possibilities. With a gyro sensor players actually jumping could be inputted into the game as a jump. 
+3. Design Issues
 	- 
+4. Pros and Cons
+	- Pros:
+	- Cons:
+
+
+
+
+
+
+## Tangible
 3. Design Issues
 	- 
 4. Pros and Cons
