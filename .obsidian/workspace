@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Resources 📚/Classes/CEN 3722/Project 2.md",
+            "file": "1. Projects 🧾/Personal/assembly/Tasks/Settings Page.md",
             "mode": "source"
           }
         }
@@ -60,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "529bb488f4565f99",
@@ -77,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources 📚/Classes/CEN 3722/Project 2.md",
+                "file": "1. Projects 🧾/Personal/assembly/Tasks/Settings Page.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,14 +107,14 @@
   },
   "active": "e10c7aabe9f41167",
   "lastOpenFiles": [
+    "1. Projects 🧾/Personal/assembly/Tasks/Settings Page.md",
+    "1. Projects 🧾/Personal/assembly/Tasks/Server.md",
+    "1. Projects 🧾/Personal/assembly/App structure.md",
     "3. Resources 📚/Classes/CEN 3722/Project 2.md",
     "3. Resources 📚/Classes/Quiz 3.md",
-    "1. Projects 🧾/Personal/assembly/Tasks/Server.md",
     "3. Resources 📚/Classes/CNT 4104/TCP server.md",
     "1. Projects 🧾/Personal/assembly/Assembly kanban.md",
-    "1. Projects 🧾/Personal/assembly/Tasks/Settings Page.md",
     "3. Resources 📚/Classes/LIS 4414/Week 7 Forum 2.md",
-    "1. Projects 🧾/Personal/assembly/App structure.md",
     "3. Resources 📚/Journals/Semi-autonomous vehicles must watch the road and the driver.md",
     "3. Resources 📚/Classes/LIS 4414/Policy and Ethical Case Study Analysis.md"
   ]
