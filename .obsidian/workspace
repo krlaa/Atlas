@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects 🧾/Work/Coder-Fair General.md",
+            "file": "3. Resources 📚/Classes/CNT 4104/Chapter 3.5.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects 🧾/Work/Coder-Fair General.md",
+            "file": "3. Resources 📚/Classes/CNT 4104/Chapter 3.5.md",
             "mode": "preview"
           }
         },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects 🧾/Work/Coder-Fair General.md",
+                "file": "3. Resources 📚/Classes/CNT 4104/Chapter 3.5.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +120,7 @@
   },
   "active": "7ed5b029269c97af",
   "lastOpenFiles": [
+    "3. Resources 📚/Classes/CNT 4104/Chapter 3.5.md",
     "1. Projects 🧾/Work/Coder-Fair General.md",
     "1. Projects 🧾/Work/Untitled.md",
     "1. Projects 🧾/Personal/assembly/Tasks/Settings Page.md",
@@ -128,7 +129,6 @@
     "3. Resources 📚/Classes/CEN 3722/Project 2.md",
     "3. Resources 📚/Classes/Quiz 3.md",
     "3. Resources 📚/Classes/CNT 4104/TCP server.md",
-    "1. Projects 🧾/Personal/assembly/Assembly kanban.md",
-    "3. Resources 📚/Classes/LIS 4414/Week 7 Forum 2.md"
+    "1. Projects 🧾/Personal/assembly/Assembly kanban.md"
   ]
 }
