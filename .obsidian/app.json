@@ -11,5 +11,6 @@
     "nbsp"
   ],
   "trashOption": "system",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "livePreview": true
 }
