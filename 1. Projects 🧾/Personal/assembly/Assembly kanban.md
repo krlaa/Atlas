@@ -6,8 +6,8 @@ kanban-plugin: basic
 
 ## To Do
 
-- [ ] [[Settings Page]]
 - [ ] [[Server]]
+- [ ] [[Settings Page]]
 
 
 ## Work in Progress
