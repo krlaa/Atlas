@@ -11,6 +11,7 @@ from socket import *
 
 serverName = 'C017128.forest.usf.edu' # 'localhost' '127.0.0.1'
 
+
 serverPort = 39123
 
 clientSocket = socket(AF_INET, SOCK_STREAM)
