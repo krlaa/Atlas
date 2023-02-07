@@ -6,12 +6,11 @@ kanban-plugin: basic
 
 ## To Do
 
-- [ ] [[Settings Page]]
-- [ ] [[Server]]
 
 
 ## Work in Progress
 
+- [ ] [[Settings Page]]
 
 
 ## Testing
@@ -21,6 +20,7 @@ kanban-plugin: basic
 ## Closed
 
 **Complete**
+- [x] [[Server]]
 
 
 

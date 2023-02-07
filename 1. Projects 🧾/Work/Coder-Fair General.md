@@ -29,7 +29,7 @@ Represents a student object
 ## Project
 
 Represents a project object
-
+- [ ] this someting i need to complete
   
 
 - title - title of the game or application | **STRING**

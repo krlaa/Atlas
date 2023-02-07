@@ -14,6 +14,13 @@
         "Mod"
       ],
       "key": " "
+    },
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
     }
   ]
 }

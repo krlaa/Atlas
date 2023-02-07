@@ -8,21 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7ed5b029269c97af",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "1. Projects 🧾/Personal/assembly/Assembly kanban.md"
-              }
-            }
-          },
-          {
             "id": "c2bcf90f15e85d64",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects 🧾/Work/Coder-Fair General.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -91,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects 🧾/Personal/assembly/Assembly kanban.md",
+                "file": "1. Projects 🧾/Work/Coder-Fair General.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,17 +125,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7ed5b029269c97af",
+  "active": "c2bcf90f15e85d64",
   "lastOpenFiles": [
+    "1. Projects 🧾/Work/Untitled.md",
+    "1. Projects 🧾/Work/Coder-Fair General.md",
+    "1. Projects 🧾/Personal/assembly/Assembly kanban.md",
     "1. Projects 🧾/Personal/assembly/Tasks/Server.md",
     "1. Projects 🧾/Personal/assembly/Tasks/Settings Page.md",
     "3. Resources 📚/Classes/CNT 4104/Chapter 3.5.md",
     "Pasted image 20230206210420.png",
     "3. Resources 📚/Classes/COP 4538 IT Data Structures 📊/1.8.md",
     "3. Resources 📚/Classes/COP 4538 IT Data Structures 📊/1.1.md",
-    "1. Projects 🧾/Work/Coder-Fair General.md",
-    "1. Projects 🧾/Work/Untitled.md",
-    "1. Projects 🧾/Personal/assembly/App structure.md",
-    "3. Resources 📚/Classes/CEN 3722/Project 2.md"
+    "1. Projects 🧾/Personal/assembly/App structure.md"
   ]
 }
